@@ -2,6 +2,8 @@
 
 ## next
 
+* Removed Qt dependency
+
 ### Upgraded programs
 
 * tex4ht 2023-10-13-15:32
